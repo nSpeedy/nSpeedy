@@ -10,8 +10,8 @@
 
 ###
 
-- 🔥My website: [szafruga.dev](szafruga.dev)
-- 💫Reach out to me at: **filip@szafruga.dev**</p>
+- 🔥My website: [szafruga.dev] (szafruga.dev)
+- 💫Reach out to me at:  **filip@szafruga.dev**</p>
 
 ###
 
