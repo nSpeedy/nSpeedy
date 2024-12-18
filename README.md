@@ -10,7 +10,7 @@
 
 ###
 
-- 🔥My website: [szafruga.dev] (szafruga.dev)
+- 🔥My website: [szafruga.dev](szafruga.dev)
 - 💫Reach out to me at:  **filip@szafruga.dev**</p>
 
 ###
